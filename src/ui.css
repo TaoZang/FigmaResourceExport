@@ -1,0 +1,30 @@
+.export-item {
+    display: inline-flex;
+    height: 50px;
+    margin: 16px 10px;
+    padding: 10px 8px;
+    vertical-align: top;
+}
+
+.canvas {
+    width: 50px;
+    height: 50px;
+    align-items: center;
+}
+
+.input-name {
+    width: 150px;
+    height: 32px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color: lightgrey;
+    align-self: center;
+}
+
+.export-button {
+    width: 60px;
+    height: 32px;
+    text-align: center;
+    align-self: center;
+    background-color:rgb(0, 195, 120);
+}
